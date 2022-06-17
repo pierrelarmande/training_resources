@@ -5,6 +5,8 @@ Training resources collected and aggregated
 * [fun-mmoc](fun-mooc.fr/en/courses/machine-learning-python-scikit-learn)
 
 ## Bioinformatics
+* [i-trop]((https://bioinfo.ird.fr/index.php/trainings-fr/)
+* [Biovcnet](https://github.com/orgs/biovcnet/repositories)
 * [SandBox](https://sandbox.bio/)
 * [RNASeq](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/05_counting_reads.html)
 
@@ -19,3 +21,12 @@ Training resources collected and aggregated
 * [MOOC](https://www.fun-mooc.fr/fr/cours/web-semantique-et-web-de-donnees)
 * [ANF intro](https://rbdd.cnrs.fr/spip.php?article337)
 * [ANF avancé](https://rbdd.cnrs.fr/spip.php?article355)
+* [Zazuko](https://zazuko.com/get-started/sparql-query)
+
+## Python
+* [coding game](https://www.codingame.com/start)
+* [Exercism](https://exercism.org)
+* [Mooc](https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage)
+* [Real Python](https://realpython.com/)
+* [Code wars](https://www.codewars.com/dashboard)
+* [Kaggle]( https://www.kaggle.com/learn)
