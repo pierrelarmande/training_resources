@@ -34,5 +34,5 @@ Training resources collected and aggregated
 * [Kaggle]( https://www.kaggle.com/learn)
 
 ## NLP
-* [SciSpacy](https://allenai.github.io/scispacy)
+* [SciSpacy](https://allenai.github.io/scispacy) other [[Link]](https://scispacy.apps.allenai.org)
 * [MedSpacy](https://github.com/medspacy/medspacy) other [[Link]](https://github.com/NLPatVCU/medaCy)
