@@ -9,7 +9,9 @@ Training resources collected and aggregated
 * [Biovcnet](https://github.com/orgs/biovcnet/repositories)
 * [SandBox](https://sandbox.bio/)
 * [RNASeq](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/05_counting_reads.html)
-
+* [RNASeq with R](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/RNASeq2018/html/06_Gene_set_testing.nb.html)
+* [RNASeq with R-2](https://bioconductor.org/packages/release/workflows/vignettes/RnaSeqGeneEdgeRQL/inst/doc/edgeRQL.html)
+* [Deep Learning](https://github.com/hussius/deeplearning-biology)
 
 ## SPARQL
 * [JDEV2013.T8 - Le développement Web: services web et web sémantique](https://devlog.cnrs.fr/jdev2013/T8)
@@ -30,3 +32,7 @@ Training resources collected and aggregated
 * [Real Python](https://realpython.com/)
 * [Code wars](https://www.codewars.com/dashboard)
 * [Kaggle]( https://www.kaggle.com/learn)
+
+## NLP
+* [SciSpacy](https://allenai.github.io/scispacy)
+* [MedSpacy](https://github.com/medspacy/medspacy) other [[Link]](https://github.com/NLPatVCU/medaCy)
