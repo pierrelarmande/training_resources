@@ -12,6 +12,9 @@ Training resources collected and aggregated
 * [RNASeq with R](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/RNASeq2018/html/06_Gene_set_testing.nb.html)
 * [RNASeq with R-2](https://bioconductor.org/packages/release/workflows/vignettes/RnaSeqGeneEdgeRQL/inst/doc/edgeRQL.html)
 * [Deep Learning](https://github.com/hussius/deeplearning-biology)
+* [Machine Learning](http://scikit-bio.org)
+* [Machine Learning](
+http://stanza.run/bio
 
 ## SPARQL
 * [JDEV2013.T8 - Le développement Web: services web et web sémantique](https://devlog.cnrs.fr/jdev2013/T8)
@@ -36,3 +39,6 @@ Training resources collected and aggregated
 ## NLP
 * [SciSpacy](https://allenai.github.io/scispacy) other [[Link]](https://scispacy.apps.allenai.org)
 * [MedSpacy](https://github.com/medspacy/medspacy) other [[Link]](https://github.com/NLPatVCU/medaCy)
+* [Stanza](http://stanza.run/bio)
+* [BioText](https://pypi.org/project/biotext)
+* [Scipy](https://scipy.org)
