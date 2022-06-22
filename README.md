@@ -5,7 +5,7 @@ Training resources collected and aggregated
 * [fun-mmoc](fun-mooc.fr/en/courses/machine-learning-python-scikit-learn)
 
 ## Bioinformatics
-* [i-trop]((https://bioinfo.ird.fr/index.php/trainings-fr/)
+* [i-trop](https://bioinfo.ird.fr/index.php/trainings-fr)
 * [Biovcnet](https://github.com/orgs/biovcnet/repositories)
 * [SandBox](https://sandbox.bio/)
 * [RNASeq](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/05_counting_reads.html)
