@@ -19,8 +19,8 @@ Training resources collected and aggregated
 * [RNASeq with R-2](https://bioconductor.org/packages/release/workflows/vignettes/RnaSeqGeneEdgeRQL/inst/doc/edgeRQL.html)
 * [Deep Learning](https://github.com/hussius/deeplearning-biology)
 * [Machine Learning](http://scikit-bio.org)
-* [Machine Learning](
-http://stanza.run/bio
+* [Machine Learning](http://stanza.run/bio)
+* [Deep Learning Biology](https://github.com/hussius/deeplearning-biology)
 
 ## SPARQL
 * [JDEV2013.T8 - Le développement Web: services web et web sémantique](https://devlog.cnrs.fr/jdev2013/T8)
