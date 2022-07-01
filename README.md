@@ -13,6 +13,7 @@ Training resources collected and aggregated
 
 ## Bioinformatics
 * [i-trop](https://bioinfo.ird.fr/index.php/trainings-fr)
+* [South Green](https://southgreenplatform.github.io/trainings/)
 * [Biovcnet](https://github.com/orgs/biovcnet/repositories)
 * [SandBox](https://sandbox.bio/)
 * [RNASeq](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/05_counting_reads.html)
