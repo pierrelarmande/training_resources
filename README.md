@@ -9,6 +9,7 @@ Training resources collected and aggregated
 
 ## Machine Learning
 * [fun-mmoc](fun-mooc.fr/en/courses/machine-learning-python-scikit-learn)
+* [Maths for ML](https://github.com/michaelgutmann/ml-pen-and-paper-exercises)
 
 ## Bioinformatics
 * [i-trop](https://bioinfo.ird.fr/index.php/trainings-fr)
