@@ -23,6 +23,7 @@ Training resources collected and aggregated
 * [Machine Learning](http://scikit-bio.org)
 * [Machine Learning](http://stanza.run/bio)
 * [Deep Learning Biology](https://github.com/hussius/deeplearning-biology)
+* [GOATOOLS](https://github.com/mousepixels/sanbomics/blob/main/GO_in_python.ipynb)
 
 ## SPARQL & Knowledge Graphs
 * [JDEV2013.T8 - Le développement Web: services web et web sémantique](https://devlog.cnrs.fr/jdev2013/T8)
