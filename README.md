@@ -24,7 +24,7 @@ Training resources collected and aggregated
 * [Machine Learning](http://stanza.run/bio)
 * [Deep Learning Biology](https://github.com/hussius/deeplearning-biology)
 
-## SPARQL
+## SPARQL & Knowledge Graphs
 * [JDEV2013.T8 - Le développement Web: services web et web sémantique](https://devlog.cnrs.fr/jdev2013/T8)
 * [ISS2016 - Informations spatialisées Sémantisées](https://devlog.cnrs.fr/iss2016)
 * [DEV2017.T2 - Ingénierie et Web des données](https://devlog.cnrs.fr/jdev2017/t2)
@@ -35,6 +35,7 @@ Training resources collected and aggregated
 * [ANF intro](https://rbdd.cnrs.fr/spip.php?article337)
 * [ANF avancé](https://rbdd.cnrs.fr/spip.php?article355)
 * [Zazuko](https://zazuko.com/get-started/sparql-query)
+* [KG tutorial] (https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/README.md)
 
 ## Python
 * [coding game](https://www.codingame.com/start)
