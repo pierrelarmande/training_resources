@@ -35,7 +35,7 @@ Training resources collected and aggregated
 * [ANF intro](https://rbdd.cnrs.fr/spip.php?article337)
 * [ANF avancé](https://rbdd.cnrs.fr/spip.php?article355)
 * [Zazuko](https://zazuko.com/get-started/sparql-query)
-* [KG tutorial] (https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/README.md)
+* [KG tutorial](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/README.md)
 
 ## Python
 * [coding game](https://www.codingame.com/start)
