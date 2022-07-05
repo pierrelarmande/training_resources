@@ -37,6 +37,8 @@ Training resources collected and aggregated
 * [ANF avancé](https://rbdd.cnrs.fr/spip.php?article355)
 * [Zazuko](https://zazuko.com/get-started/sparql-query)
 * [KG tutorial](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/README.md)
+* [ISE FIZ](https://www.youtube.com/c/ISEFIZKarlsruhe)
+* [FAIR CookBook](https://faircookbook.elixir-europe.org/content/home.html)
 
 ## Python
 * [coding game](https://www.codingame.com/start)
