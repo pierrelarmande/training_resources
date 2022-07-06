@@ -35,6 +35,7 @@ Training resources collected and aggregated
 * [MOOC](https://www.fun-mooc.fr/fr/cours/web-semantique-et-web-de-donnees)
 * [ANF intro](https://rbdd.cnrs.fr/spip.php?article337)
 * [ANF avancé](https://rbdd.cnrs.fr/spip.php?article355)
+* [Hala Skaf-Molli lectures](http://pagesperso.ls2n.fr/~skaf-h/pmwiki/pmwiki.php/Main/SemanticWeb)
 * [Zazuko](https://zazuko.com/get-started/sparql-query)
 * [KG tutorial](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/README.md)
 * [ISE FIZ](https://www.youtube.com/c/ISEFIZKarlsruhe)
