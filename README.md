@@ -4,6 +4,7 @@ Training resources collected and aggregated
 ## Deep Learning
 * [Fidle](https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle/-/wikis/Fidle%20%C3%A0%20distance/Pr%C3%A9sentation)
 * [DL2AI](https://d2l.ai/)
+* [Standford transformers](https://web.stanford.edu/class/cs25/)
 
 ## Graph Learning
 * [Stanford](https://snap.stanford.edu/graphlearning-workshop/index.html)
