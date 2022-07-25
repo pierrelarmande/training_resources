@@ -13,6 +13,7 @@ Training resources collected and aggregated
 * [fun-mmoc](fun-mooc.fr/en/courses/machine-learning-python-scikit-learn)
 * [Maths for ML](https://github.com/michaelgutmann/ml-pen-and-paper-exercises)
 * [DAIR-AI](https://github.com/dair-ai/ML-Course-Notes)
+* [Flash Card](https://github.com/b7leung/MLE-Flashcards)
 * [Bayes Book](https://www.bayesrulesbook.com/index.html)
 
 ## Bioinformatics
