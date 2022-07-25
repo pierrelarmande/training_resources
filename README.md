@@ -15,7 +15,7 @@ Training resources collected and aggregated
 * [DAIR-AI](https://github.com/dair-ai/ML-Course-Notes)
 * [Flash Card](https://github.com/b7leung/MLE-Flashcards)
 * [Bayes Book](https://www.bayesrulesbook.com/index.html)
-* [Sebastian Raschka courses](https://sebastianraschka.com)
+* [Sebastian Raschka courses](https://sebastianraschka.com) & [Videos](https://www.youtube.com/c/SebastianRaschka)
 
 ## Bioinformatics
 * [i-trop](https://bioinfo.ird.fr/index.php/trainings-fr)
