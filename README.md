@@ -45,6 +45,7 @@ Training resources collected and aggregated
 * [KG tutorial](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/README.md)
 * [ISE FIZ](https://www.youtube.com/c/ISEFIZKarlsruhe)
 * [FAIR CookBook](https://faircookbook.elixir-europe.org/content/home.html)
+* [Jupyter Notebooks](https://www.datasciencecentral.com/getting-started-with-jupyter-intelligentgraph)
 
 ## Python
 * [coding game](https://www.codingame.com/start)
