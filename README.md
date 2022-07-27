@@ -16,6 +16,7 @@ Training resources collected and aggregated
 * [Flash Card](https://github.com/b7leung/MLE-Flashcards)
 * [Bayes Book](https://www.bayesrulesbook.com/index.html)
 * [Sebastian Raschka courses](https://sebastianraschka.com) & [Videos](https://www.youtube.com/c/SebastianRaschka)
+* [ML Fondations](https://github.com/jonkrohn/ML-foundations)
 
 ## Bioinformatics
 * [i-trop](https://bioinfo.ird.fr/index.php/trainings-fr)
