@@ -50,6 +50,7 @@ Training resources collected and aggregated
 * [ISE FIZ](https://www.youtube.com/c/ISEFIZKarlsruhe)
 * [FAIR CookBook](https://faircookbook.elixir-europe.org/content/home.html)
 * [Jupyter Notebooks](https://www.datasciencecentral.com/getting-started-with-jupyter-intelligentgraph)
+* [DBPedia SPARL Tutorial](http://fr.dbpedia.org/sparqlTuto/tutoSparql.html)
 
 ## Python
 * [coding game](https://www.codingame.com/start)
