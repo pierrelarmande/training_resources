@@ -58,6 +58,7 @@ Training resources collected and aggregated
 * [Real Python](https://realpython.com/)
 * [Code wars](https://www.codewars.com/dashboard)
 * [Kaggle]( https://www.kaggle.com/learn)
+* [Data Science HandBook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ## NLP
 * [SciSpacy](https://allenai.github.io/scispacy) other [[Link]](https://scispacy.apps.allenai.org)
