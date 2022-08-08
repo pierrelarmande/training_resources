@@ -17,6 +17,8 @@ Training resources collected and aggregated
 * [Bayes Book](https://www.bayesrulesbook.com/index.html)
 * [Sebastian Raschka courses](https://sebastianraschka.com) & [Videos](https://www.youtube.com/c/SebastianRaschka)
 * [ML Fondations](https://github.com/jonkrohn/ML-foundations)
+* [Matrix Methods](https://laurentlessard.com/teaching/532-matrix-methods/)
+* [Free Online resourse 2022](https://www.mltut.com/best-free-online-courses-for-machine-learning-and-ai)
 
 ## Bioinformatics
 * [i-trop](https://bioinfo.ird.fr/index.php/trainings-fr)
