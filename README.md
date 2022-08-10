@@ -68,3 +68,4 @@ Training resources collected and aggregated
 * [BioText](https://pypi.org/project/biotext)
 * [Scipy](https://scipy.org)
 * [Learning_Spacy](https://github.com/iocfinc/Learning_Spacy/blob/master/Spacy_Courses.md)
+* [SciBert](https://github.com/allenai/scibert)
