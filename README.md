@@ -67,3 +67,4 @@ Training resources collected and aggregated
 * [Stanza](http://stanza.run/bio)
 * [BioText](https://pypi.org/project/biotext)
 * [Scipy](https://scipy.org)
+* [Learning_Spacy](https://github.com/iocfinc/Learning_Spacy/blob/master/Spacy_Courses.md)
