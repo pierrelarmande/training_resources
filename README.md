@@ -60,6 +60,7 @@ Training resources collected and aggregated
 * [Code wars](https://www.codewars.com/dashboard)
 * [Kaggle]( https://www.kaggle.com/learn)
 * [Data Science HandBook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Benedict Paten intro Python with Colab notebooks](https://github.com/benedictpaten/intro_python)
 
 ## NLP
 * [SciSpacy](https://allenai.github.io/scispacy) other [[Link]](https://scispacy.apps.allenai.org)
