@@ -20,6 +20,7 @@ Training resources collected and aggregated
 * [Matrix Methods](https://laurentlessard.com/teaching/532-matrix-methods/)
 * [Free Online resourse 2022](https://www.mltut.com/best-free-online-courses-for-machine-learning-and-ai)
 * [Tom Mitchel ML courses](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)
+* [Visual explaination ML courses](https://mlu-explain.github.io/)
 
 ## Bioinformatics
 * [i-trop](https://bioinfo.ird.fr/index.php/trainings-fr)
