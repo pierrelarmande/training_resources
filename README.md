@@ -35,6 +35,8 @@ Training resources collected and aggregated
 * [Machine Learning](http://stanza.run/bio)
 * [Deep Learning Biology](https://github.com/hussius/deeplearning-biology)
 * [GOATOOLS](https://github.com/mousepixels/sanbomics/blob/main/GO_in_python.ipynb)
+* [BEDA’s single-cell sequencing analysis](https://bedapub.github.io/besca/index.html)
+* [SCANPY](https://scanpy.readthedocs.io/en/stable/tutorials.html)
 
 ## SPARQL & Knowledge Graphs
 * [JDEV2013.T8 - Le développement Web: services web et web sémantique](https://devlog.cnrs.fr/jdev2013/T8)
