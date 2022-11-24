@@ -66,6 +66,9 @@ Training resources collected and aggregated
 * [Data Science HandBook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Benedict Paten intro Python with Colab notebooks](https://github.com/benedictpaten/intro_python)
 
+## JS
+* [grafikart](https://grafikart.fr/tutoriels)
+
 ## NLP
 * [SciSpacy](https://allenai.github.io/scispacy) other [[Link]](https://scispacy.apps.allenai.org)
 * [MedSpacy](https://github.com/medspacy/medspacy) other [[Link]](https://github.com/NLPatVCU/medaCy)
