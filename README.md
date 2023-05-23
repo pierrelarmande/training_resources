@@ -1,6 +1,10 @@
 # Training Resources and Materials
 Training resources collected and aggregated 
 
+## LLMs
+* [prompt engineering resourcea](https://github.com/dair-ai/Prompt-Engineering-Guide)
+* [prompt engineering guide](https://www.promptingguide.ai/)
+* 
 ## Deep Learning
 * [Fidle](https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle/-/wikis/Fidle%20%C3%A0%20distance/Pr%C3%A9sentation)
 * [DL2AI](https://d2l.ai/)
