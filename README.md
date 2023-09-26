@@ -82,3 +82,4 @@ Training resources collected and aggregated
 * [Scipy](https://scipy.org)
 * [Learning_Spacy](https://github.com/iocfinc/Learning_Spacy/blob/master/Spacy_Courses.md)
 * [SciBert](https://github.com/allenai/scibert)
+* [Standford Youtube Courses](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
